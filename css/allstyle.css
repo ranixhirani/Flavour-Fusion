@@ -63,6 +63,14 @@
     height: 2px;
     margin: 2%;
   }
+  .nav__logo img {
+    max-height: 56px; /* Adjust the height as needed */
+    margin-right: 10px; /* Adjust the spacing between the logo and the menu */
+}
+.nav {
+  background-color: #ffe5ac; /* Set your desired background color */
+  /* Additional styling properties if needed */
+}
 
   /* Media query for screens larger than 768px */
   @media (min-width: 768px) {
